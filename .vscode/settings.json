@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "c",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}
