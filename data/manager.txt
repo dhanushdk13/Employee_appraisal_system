@@ -1,0 +1,5 @@
+10000 Dhoni manager1
+20000 Kohli manager2
+30000 Rohit manager3
+40000 Ruturaj manager4
+50000 Stokes manager5
