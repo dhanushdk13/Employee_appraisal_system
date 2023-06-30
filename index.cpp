@@ -86,6 +86,7 @@ void handleTechLeadSubMenuOption(char subChoice) {
         case 'b':
             cout << "View Your Final Ratings and Hike selected." << endl;
             // Add logic to handle View Your Final Ratings and Hike
+            
             break;
         case 'c':
             cout << "Exiting Tech Lead Menu." << endl;
@@ -105,6 +106,8 @@ void handleEngineeringManagerSubMenuOption(char subChoice) {
         case 'b':
             cout << "Distribution Chart selected." << endl;
             // Add logic to handle Distribution Chart
+            cout<<"People with rating 4-5 hould be within 10%"<<endl;
+            cout<<"people with rating 1-2 should be within 5%"<<endl;
             break;
         case 'c':
             cout << "Decide Tasks for Tech Lead selected." << endl;
